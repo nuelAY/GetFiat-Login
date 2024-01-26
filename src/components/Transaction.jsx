@@ -34,12 +34,12 @@ function Transaction() {
           <p className='text-zinc-200 font-extralight text-small'>billclinton@gmail.com</p>
         </div>
 
-        <div className='flex mx-[3rem] sm:mx-[20rem] my-5 py-3'>
-          <div className='flex mx-3 my-2'>
+        <div className='flex mx-[1rem] sm:mx-[20rem] my-5 py-3'>
+          <div className='flex mx-2 my-2'>
             <FaInstagram fontSize={30} className='bg-white mx-2'/>
             <FaTwitter fontSize={30} className='bg-white'/>
           </div>
-          <p className='border border-slate-400 text-slate-500 w-[20rem] px-12 py-3 sm:w-[20rem] mx-2'>Powered by:</p>
+          <p className='border border-slate-400 text-slate-500 w-[20rem] px-10 py-3 sm:w-[20rem] mx-2'>Powered by:</p>
           <h1 className='text-slate-200 text-2xl font-extrabold py-1'>Swyft</h1>
                     
                     
